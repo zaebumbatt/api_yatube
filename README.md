@@ -1,2 +1,2 @@
-# api_yatube
-api_yatube
+# Yandex Praktikum 
+Sprint 9
